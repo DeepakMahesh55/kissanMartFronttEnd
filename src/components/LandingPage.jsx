@@ -38,7 +38,6 @@ function LandingPage() {
         </Toolbar>
       </AppBar>
 
-
       {/* Hero Section */}
 
       <Box
@@ -71,7 +70,6 @@ function LandingPage() {
         </Button>
 
       </Box>
-
 
       {/* Features */}
 
@@ -117,7 +115,6 @@ function LandingPage() {
         </Grid>
 
       </Box>
-
 
       {/* Call To Action */}
 
