@@ -1,0 +1,36 @@
+.navBar{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 4px rgb(150, 148, 148);
+    /* margin-top: 10px; */
+    border-radius: 20px;
+    padding: 0px 20px;
+}
+
+.logo{
+    width: 60px;
+}
+
+.logoContainer{
+    display: flex;
+    gap: 5px;
+}
+
+.circle{
+    width: 30px;
+    height: 30px;
+    background-color: #1F216E;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.nameContainer{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
